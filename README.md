@@ -2,7 +2,7 @@
 
 - **Current Role**: Visiting Researcher at **NASA JPL** 🚀, optimizing deep learning inference on edge devices (ask me how I hit **124Hz** on depth estimation!).
 - **AI Safety Research**: Explored machine unlearning in LLMs for my master’s thesis, showing that it is unable to remove dangerous knowledge from LLMs ⚠️.
-- **Recognition**: Received a **Best Paper Award** 🏆 for my work on AI safety ([arXiv](https://arxiv.org/abs/2409.18025)).
+- **Recognition**: Received a 🏆**Best Paper Award**🏆 at [NeurIPS 2024 SoLaR Workshop](https://neurips.cc/virtual/2024/workshop/84743) for my work on AI safety ([arXiv](https://arxiv.org/abs/2409.18025)).
 - **Industry Experience**: Over a year of building AI solutions for the dental industry at **Align Technology** 🦷.
 - **Interests**: Fascinated by **AI safety** 🛡️, **robotics** 🤖, and **neurosymbolic AI** 🧠—always open to discussions!
 
