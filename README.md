@@ -1,4 +1,4 @@
-# 💫 Who am I?
+# 🔍 Who am I?
 
 - **Current Role**: Visiting Researcher at **NASA JPL** 🚀, optimizing deep learning inference on edge devices (ask me how I hit **124Hz** on depth estimation!).
 - **AI Safety Research**: Explored machine unlearning in LLMs for my master’s thesis, showing its limitations in removing dangerous knowledge ⚠️.
